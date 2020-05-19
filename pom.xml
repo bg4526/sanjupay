@@ -10,6 +10,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>shanjupay-common</module>
+        <module>shanjupay-merchant</module>
+        <module>shanjupay-transaction</module>
+        <module>shanjupay-merchant-application</module>
+        <module>shanjupay-gateway</module>
+        <module>shanjupay-uaa</module>
+        <module>shanjupay-user</module>
     </modules>
 
     <parent>

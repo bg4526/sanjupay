@@ -9,12 +9,14 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>shanjupay-merchant</artifactId>
+    <artifactId>shanjupay-gateway</artifactId>
     <packaging>pom</packaging>
 
     <modules>
-        <module>shanjupay-merchant-api</module>
-        <module>shanjupay-merchant-service</module>
+        <module>shanjupay-gateway-service</module>
     </modules>
+
+
+
 
 </project>
